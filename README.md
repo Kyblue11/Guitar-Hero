@@ -12,6 +12,10 @@ Includes special features such as:
 
 For more information, refer to: [Documentation](./Documentation.pdf)
 
+## Credits:
+Multiple songs have been provided in the `./assets` folder. </br>
+the `.csv` files provided can be found here: [README](./assets/README.md) 
+
 ![Guitar Hero](./guitarhero.png)
 
 
