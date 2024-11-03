@@ -1,5 +1,18 @@
 # Guitar Hero FRP
 
+Guitar Hero FRP is a functional reactive programming project using pure functions and RxJS for declarative code. The core logic is in main.ts, with state management in state.ts and rendering in view.ts. It emphasizes immutability and reactive streams for game development.
+Includes special features such as:
+1. custom song library
+2. reset button
+3. streak store n' break
+4. long note score multiplier
+5. keypress mapping colors
+
+For more information, refer to: [Documentation](./Documentation.pdf)
+
+![Guitar Hero](./guitarhero.png)
+
+
 ## Usage
 
 Setup (requires node.js):
